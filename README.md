@@ -1,2 +1,2 @@
-DLottery: A Decentralised lottery with Ethereum and Chainlink                                                                                                                                                              link
+DLottery: A Decentralised lottery with Ethereum and Chainlink                                                                                                                                                   
 
